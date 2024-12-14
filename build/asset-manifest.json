@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab62e527.chunk.css",
+    "main.js": "/static/js/main.514aed20.chunk.js",
+    "main.js.map": "/static/js/main.514aed20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3036b861.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3036b861.js.map",
+    "static/css/2.4a9b74e8.chunk.css": "/static/css/2.4a9b74e8.chunk.css",
+    "static/js/2.269e763a.chunk.js": "/static/js/2.269e763a.chunk.js",
+    "static/js/2.269e763a.chunk.js.map": "/static/js/2.269e763a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4a9b74e8.chunk.css.map": "/static/css/2.4a9b74e8.chunk.css.map",
+    "static/css/main.ab62e527.chunk.css.map": "/static/css/main.ab62e527.chunk.css.map",
+    "static/js/2.269e763a.chunk.js.LICENSE.txt": "/static/js/2.269e763a.chunk.js.LICENSE.txt",
+    "static/media/juvonBwIcon.f4e7cd94.jpg": "/static/media/juvonBwIcon.f4e7cd94.jpg",
+    "static/media/tblogo.74a0427d.png": "/static/media/tblogo.74a0427d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3036b861.js",
+    "static/css/2.4a9b74e8.chunk.css",
+    "static/js/2.269e763a.chunk.js",
+    "static/css/main.ab62e527.chunk.css",
+    "static/js/main.514aed20.chunk.js"
+  ]
+}

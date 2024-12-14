@@ -1,0 +1,18 @@
+.input-group{
+    padding-left: 10%; 
+    padding-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.card {
+    margin: 5%;
+}
+.card:hover {
+    transition:.3s;
+    transform:scale(1.02);
+}
+
+.titleText {
+    text-align: center;
+}
